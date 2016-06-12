@@ -1,6 +1,7 @@
 # Is It Set
 
-A one-liner to check if a property is set (not null, undefined or empty string).
+A one-liner to check if a property is set (not `null`, `undefined` or an empty 
+string).
 
 ## Installation
 
