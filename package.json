@@ -1,0 +1,37 @@
+{
+  "name": "is-it-set",
+  "version": "1.0.1",
+  "description": "A one-liner to check if a property is set (not null, undefined or empty string).",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover node_modules/.bin/_mocha -- -u exports -R spec test/**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brycehanscomb@github.com/brycehanscomb/is-it-set.git"
+  },
+  "keywords": [
+    "is",
+    "set",
+    "is_set",
+    "isset",
+    "is",
+    "it",
+    "set",
+    "is-it-set"
+  ],
+  "author": "Bryce Hanscomb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycehanscomb/is-it-set/issues"
+  },
+  "homepage": "https://github.com/brycehanscomb/is-it-set#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "is-not-set": "^1.0.0"
+  }
+}
