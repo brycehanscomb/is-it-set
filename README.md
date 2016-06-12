@@ -8,6 +8,7 @@ Run the following command to make this package available in your project:
 
 ```
 npm install is-it-set --save
+```
 
 ## Usage
 
