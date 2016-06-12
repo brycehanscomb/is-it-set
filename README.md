@@ -1,5 +1,7 @@
 # Is It Set
 
+[![Build Status](https://travis-ci.org/brycehanscomb/is-it-set.svg?branch=master)](https://travis-ci.org/brycehanscomb/is-it-set)
+
 A one-liner to check if a property is set (not `null`, `undefined` or an empty 
 string).
 
