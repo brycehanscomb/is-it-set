@@ -1,6 +1,6 @@
 {
   "name": "is-it-set",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A one-liner to check if a property is set (not null, undefined or empty string).",
   "main": "index.js",
   "scripts": {
